@@ -22,7 +22,7 @@ import Layout from '../components/Layout.astro';
 			<div class="resource-list">
         <ul>
           <li>
-            <a href="https://ntl.fyi/38O9wmY">Netlify Blog: Astro Bug posts</a>
+            <a href="https://ntl.fyi/38O9wmY">Netlify Blog: Astro posts</a>
 					</li>
           <li>
             <a href="https://ntl.fyi/3KHGtyz">Netlify Docs</a>
